@@ -1,0 +1,5 @@
+admin/
+bin/
+config/
+user/*
+!user/auth.php
